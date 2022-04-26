@@ -1,0 +1,16 @@
+D:\YandexDisk\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+D:\YandexDisk\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\YandexDisk\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\YandexDisk\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\YandexDisk\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\YandexDisk\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\YandexDisk\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
