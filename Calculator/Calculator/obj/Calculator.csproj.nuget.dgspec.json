@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YandexDisk\\Calculator\\Calculator\\Calculator.csproj": {}
+    "d:\\YandexDisk\\ФПК\\МОИ ФПК\\Rubius\\Вебинар 3\\Lesson3\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "D:\\YandexDisk\\Calculator\\Calculator\\Calculator.csproj": {
+    "d:\\YandexDisk\\ФПК\\МОИ ФПК\\Rubius\\Вебинар 3\\Lesson3\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YandexDisk\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "d:\\YandexDisk\\ФПК\\МОИ ФПК\\Rubius\\Вебинар 3\\Lesson3\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "D:\\YandexDisk\\Calculator\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\AndreevsFamily\\.nuget\\packages\\",
-        "outputPath": "D:\\YandexDisk\\Calculator\\Calculator\\obj\\",
+        "projectPath": "d:\\YandexDisk\\ФПК\\МОИ ФПК\\Rubius\\Вебинар 3\\Lesson3\\Calculator\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\andreevmv\\.nuget\\packages\\",
+        "outputPath": "d:\\YandexDisk\\ФПК\\МОИ ФПК\\Rubius\\Вебинар 3\\Lesson3\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AndreevsFamily\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andreevmv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

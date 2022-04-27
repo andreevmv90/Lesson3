@@ -36,64 +36,64 @@ namespace Calculator
 
         }
 
-        private static double Summ()
+        private static int Summ()
         {
-            double value1;
-            double value2;
+            int value1;
+            int value2;
             val1:
                 Console.WriteLine(@"Введите значение первого члена: ");
-                if (!double.TryParse(Console.ReadLine(), out value1))
+                if (!Int32.TryParse(Console.ReadLine(), out value1))
                     goto val1;
             val2:
                 Console.WriteLine(@"Введите значение второго члена: ");
-                if (!double.TryParse(Console.ReadLine(), out value2))
+                if (!Int32.TryParse(Console.ReadLine(), out value2))
                     goto val2;
                 return value1 + value2;
         }
 
-        private static double Dif()
+        private static int Dif()
         {
-            double value1;
-            double value2;
+            int value1;
+            int value2;
             val1:
                 Console.WriteLine(@"Введите значение уменьшаемого: ");
-                if (!double.TryParse(Console.ReadLine(), out value1))
+                if (!Int32.TryParse(Console.ReadLine(), out value1))
                     goto val1;
             val2:
                 Console.WriteLine(@"Введите значение вычитаемого: ");
-                if (!double.TryParse(Console.ReadLine(), out value2))
+                if (!Int32.TryParse(Console.ReadLine(), out value2))
                     goto val2;
                 return value1 - value2;
         }
 
-        private static double Mult()
+        private static int Mult()
         {
-            double value1;
-            double value2;
-            val1:
+            int value1;
+            int value2;
+        val1:
                 Console.WriteLine(@"Введите значение первого множителя: ");
-                if (!double.TryParse(Console.ReadLine(), out value1))
+                if (!Int32.TryParse(Console.ReadLine(), out value1))
                     goto val1;
             val2:
                 Console.WriteLine(@"Введите значение второго множителя: ");
-                if (!double.TryParse(Console.ReadLine(), out value2))
+                if (!Int32.TryParse(Console.ReadLine(), out value2))
                     goto val2;
                 return value1 * value2;
         }
 
-        private static double Div()
+        private static int Div()
         {
-            double value1;
-            double value2;
-            val1:
+            int value1;
+            int value2;
+           val1:
                 Console.WriteLine(@"Введите значение делимого: ");
-                if (!double.TryParse(Console.ReadLine(), out value1))
+                if (!Int32.TryParse(Console.ReadLine(), out value1))
                     goto val1;
             val2:
                 Console.WriteLine(@"Введите значение делителя: ");
-                if (!double.TryParse(Console.ReadLine(), out value2))
+                if (!Int32.TryParse(Console.ReadLine(), out value2))
                     goto val2;
-            if (value2 < 1e-5)
+            if (value2 == 0)
             {
                 Console.WriteLine(@"Делитель не может быть равен нулю");
                 goto val2;
@@ -104,17 +104,17 @@ namespace Calculator
 
         private static double DivRem()
         {
-            double value1;
-            double value2;
+            int value1;
+            int value2;
             val1:
                 Console.WriteLine(@"Введите значение делимого: ");
-                if (!double.TryParse(Console.ReadLine(), out value1))
+                if (!Int32.TryParse(Console.ReadLine(), out value1))
                     goto val1;
             val2:
                 Console.WriteLine(@"Введите значение делителя: ");
-            if (!double.TryParse(Console.ReadLine(), out value2))
-                goto val2;
-            if (value2 < 1e-5)
+                if (!Int32.TryParse(Console.ReadLine(), out value2))
+                    goto val2;
+            if (value2 == 0)
             {
                 Console.WriteLine(@"Делитель не может быть равен нулю");
                 goto val2;

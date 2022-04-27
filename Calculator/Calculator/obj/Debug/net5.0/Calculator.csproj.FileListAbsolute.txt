@@ -14,3 +14,19 @@ D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
 D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
 D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
 D:\YandexDisk\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+d:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 3\Lesson3\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
